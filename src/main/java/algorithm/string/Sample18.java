@@ -14,10 +14,10 @@ public class Sample18 {
     }
 
     public static void main(String[] args) {
-        Sample18 sample = new Sample18();
+        Sample18 sample18 = new Sample18();
 
         Scanner kb = new Scanner(System.in);
         String str = kb.next();
-        System.out.print(sample.solution(str));
+        System.out.print(sample18.solution(str));
     }
 }
